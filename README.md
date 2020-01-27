@@ -26,9 +26,10 @@ The goals for this challenge are:
 Please check file "climate_analysis.ipynb" in the repository for code
 
 June Summary Statistics
-
+![]()
 
 December Summary Statistics
+![]()
 
 Based off of the data in regards to the weather in the months of June and December, I was able to compare the 2 different seasons in Oahu, Hawaii. The temperature in June was only a slight bit higher than in December. The average temperature in June was 74.9 degrees, with lows of 64 degrees and a high of 85 degrees, compared to December, which had an average of 71 degrees with a low of 56 degrees and a high of 83 degrees. Although the average between June and December was only 4 degrees apart, the low was 64 in June compared to 56 in December, which would possibly deter vacationers from visiting in December. 
 
